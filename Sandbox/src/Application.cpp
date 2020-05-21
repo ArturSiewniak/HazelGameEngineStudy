@@ -7,3 +7,5 @@ void main()
 {
 	Hazel::Print();
 }
+
+//lol
